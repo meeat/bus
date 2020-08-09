@@ -1,0 +1,41 @@
+.p{
+	line-height: 3rem;
+}
+.span{
+	margin-left: 100px;
+}
+.grid-posts{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.grid-posts .card{
+	border: 0;
+	margin-bottom: 70px
+	
+}
+.grid-posts .card-body{
+	padding-left: 0;
+	padding-right: 0;
+}
+.grid-posts .card-img-top{
+	max-height: 400px;
+}
+.carousel-item{
+	max-height: 400px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+}
+.row .col{
+	margin-top: 50px;
+}
+.card .card-img-bottom{
+	max-width: 200px;
+	padding-top: 200px;
+
+}
+
+
+
+
+
