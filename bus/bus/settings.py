@@ -13,7 +13,7 @@ SECRET_KEY = '-_a)11^7woc%5%m!p4b%&g&goni%50^5m+wvh0+m8wxsepd^lp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['rblbixer.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
